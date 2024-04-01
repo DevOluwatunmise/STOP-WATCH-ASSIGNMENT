@@ -1,0 +1,32 @@
+.btn {
+    /* display: flex; */
+    width: 100px;
+    height: 30px;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: #5b3030;
+    color: white;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.timeCounter {
+    font-size: 80px;
+    color: aqua;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container{
+    text-align: center; 
+    justify-content: center;
+    border: 2px solid;
+    padding:20px;
+    border-radius: 30px;
+    background-color:  #815858;  
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+} 
+
